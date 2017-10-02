@@ -16,19 +16,19 @@
 
 ### Pros & Cons
 * **Pros**
- * Very easy to understand and implement
- * Can quickly respond to changes in input
- * Does not assume any probability distributions on the input data
- * Naturally handles multi-class cases
- * Can do well in practice with enough representative data
+  * Very easy to understand and implement
+  * Can quickly respond to changes in input
+  * Does not assume any probability distributions on the input data
+  * Naturally handles multi-class cases
+  * Can do well in practice with enough representative data
 * **Cons**
- * kNN can suffer from skewed class distributions
- * High dimentional data can cause problems when finding nearest points 
- * Large search problem to find nearest neighbours  
- * Affected by local structure
- * Sensitive to noise, irrelevant features 
- * Must know we have a meaningful distance function
- * Storage of data
+  * kNN can suffer from skewed class distributions
+  * High dimentional data can cause problems when finding nearest points 
+  * Large search problem to find nearest neighbours  
+  * Affected by local structure
+  * Sensitive to noise, irrelevant features 
+  * Must know we have a meaningful distance function
+  * Storage of data
 
 ### Improvements
 * The distance measure has to be meaningful – attributes should be scaled.
