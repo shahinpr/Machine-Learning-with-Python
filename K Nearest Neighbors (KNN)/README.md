@@ -3,7 +3,7 @@
 * kNN is one of the simplest Machine Learning algorithms. 
 * By nature it falls in the supervised family of algorithms. 
 * Mostly used for classification, also can be used for regression tasks.  
-  **Regression : ** Value of test example calculated by (weighted) avarage of k nearest test points  
+  **Regression :** Value of test example calculated by (weighted) avarage of k nearest test points  
   **Calssification :** Majority vote of k closest training points used to determine class
 * It is a non-parametric and instance-based (lazy) learning algorithm.  
   **Non-parametric** means no explicit assumptions on data distibution   
